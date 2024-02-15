@@ -6,4 +6,4 @@ in time and relive those exciting moments! With the game deployed on
 Kubernetes, it's time to dive into the nostalgic world of Mario. Grab
 your controllers, it's game time!"
 
-#Introduction
+# Introduction
