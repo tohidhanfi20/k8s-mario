@@ -154,7 +154,7 @@ Now change directory back to k8s-mario
 
 Let’s apply the deployment and service    
 
-# Deployment
+# STEP 4: Deployment
 
     kubectl apply -f deployment.yaml
     
@@ -166,7 +166,7 @@ Let’s apply the deployment and service
 
 Now let’s apply the service
 
-# Service
+# STEP 5: Service
 
     kubectl apply -f service.yaml
     kubectl get all
@@ -191,7 +191,7 @@ You can check in Docker-hub as well sevenajay/mario:latest
 
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/20.avif" width="1000" height="400">
 
-# Destruction 
+# STEP 6: Destruction 
 
 Let’s remove the service and deployment first
 
