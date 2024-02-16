@@ -171,7 +171,7 @@ Now let’s apply the service
     kubectl apply -f service.yaml
     kubectl get all
     
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/17.avif" width="1000" height="400">
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/17.avif" width="1000" height="600">
 
 Now let’s describe the service and copy the LoadBalancer Ingress
 
