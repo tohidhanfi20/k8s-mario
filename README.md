@@ -162,7 +162,7 @@ Let’s apply the deployment and service
 
     kubectl get all
 
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/16.avif" width="1300" height="400">   
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/16.avif" width="1600" height="300">   
 
 Now let’s apply the service
 
