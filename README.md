@@ -128,7 +128,7 @@ Now run terraform validate and terraform plan
     terraform validate
     terraform plan
     
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/12.avif" width="1000" height="400">
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/12.avif" width="1000" height="800">
 
 Now Run terraform apply to provision cluster.
 
