@@ -146,7 +146,7 @@ Make sure change your desired region
 
     aws eks update-kubeconfig --name EKS_CLOUD --region ap-south-1
 
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/15.avif" width="1000" height="400">    
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/15.avif" width="1000" height="1000">    
 
 Now change directory back to k8s-mario
 
