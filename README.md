@@ -15,7 +15,7 @@ Super Mario is a classic game loved by many. In this guide, we’ll explore how 
 3) Terraform should be installed on instance
 4) AWS CLI and KUBECTL on Instance
 
-# LET’S DEPLOY
+# LET’S GO
 
 # STEP 1: Launch Ubuntu instance
 
