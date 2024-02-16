@@ -44,3 +44,6 @@ Ensure you have necessary permissions and follow best practices while configurin
 
 # STEP 2: Create IAM role
 
+Search for IAM in the search bar of AWS and click on roles.
+
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/d4f64b19-c42e-46ca-b2a5-470976c4403e.avif" width="1000" height="400">
