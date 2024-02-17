@@ -205,8 +205,8 @@ Let’s Destroy the cluster
 
     terraform destroy --auto-approve  
 
-After 10mins Resources that are provisioned will be removed.
-
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/22.avif" width="1000" height="400">    
+
+After 10mins Resources that are provisioned will be removed.
 
 "Thank you for joining this nostalgic journey to the 90s! We hope you enjoyed rekindling your love for gaming with the deployment of the iconic Mario game on Kubernetes. Embracing the past while exploring new technologies is a true testament to the timeless allure of classic games. Until next time, keep gaming and reliving those fantastic memories! 👾🎮."
