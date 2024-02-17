@@ -148,6 +148,8 @@ Make sure change your desired region
 
     aws eks update-kubeconfig --name EKS_CLOUD --region ap-south-1
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/16.avif" width="2000" height="200">       
+
 Now change directory back to k8s-mario
 
     cd ..
@@ -161,8 +163,6 @@ Let’s apply the deployment and service
 #to check the deployment
 
     kubectl get all
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/16.avif" width="2000" height="200">   
 
 Now let’s apply the service
 
