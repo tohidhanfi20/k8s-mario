@@ -130,11 +130,11 @@ Now run terraform validate and terraform plan
     terraform validate
     terraform plan
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/13.avif" width="1000" height="400">
+
 Now Run terraform apply to provision cluster.
 
     terraform apply --auto-approve
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/13.avif" width="1000" height="400">
 
 Completed in 10mins
 
