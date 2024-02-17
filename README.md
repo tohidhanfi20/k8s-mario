@@ -173,11 +173,11 @@ Now let’s apply the service
     kubectl apply -f service.yaml
     kubectl get all
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/18.avif" width="1000" height="400">        
+
 Now let’s describe the service and copy the LoadBalancer Ingress
 
     kubectl describe service mario-service
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/18.avif" width="1000" height="400">    
 
 Paste the ingress link in a browser and you will see the Mario game.
 
