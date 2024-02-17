@@ -76,9 +76,9 @@ Go to EC2 Dashboard and select the instance.
 
 Click on Actions –> Security –> Modify IAM role.
 
-Select the Role that created earlier and click on Update IAM role.
-
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/7.avif" width="1000" height="400">
+
+Select the Role that created earlier and click on Update IAM role.
 
 Connect the instance to Mobaxtreme or Putty
 
