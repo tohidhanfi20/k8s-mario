@@ -179,11 +179,11 @@ Now let’s describe the service and copy the LoadBalancer Ingress
 
     kubectl describe service mario-service
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/19.avif" width="1000" height="400">
+
 Paste the ingress link in a browser and you will see the Mario game.
 
 Let’s Go back to 1985 and play the game like children.
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/19.avif" width="1000" height="400">
 
 This is official image by MR CLOUD BOOK
 
