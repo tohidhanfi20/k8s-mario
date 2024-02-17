@@ -136,9 +136,9 @@ Now Run terraform apply to provision cluster.
 
     terraform apply --auto-approve
 
-Completed in 10mins
-
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/14.avif" width="1000" height="400">
+
+Completed in 10mins
 
 Update the Kubernetes configuration
 
