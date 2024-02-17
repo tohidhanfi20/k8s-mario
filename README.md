@@ -60,9 +60,9 @@ Use case as EC2 and click on Next.
 
 For permission policy select Administrator Access (Just for learning purpose), click Next.
 
-Provide a Name for Role and click on Create role.
-
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/4.avif" width="1000" height="400">
+
+Provide a Name for Role and click on Create role.
 
 Role is created.
 
