@@ -68,13 +68,13 @@ Provide a Name for Role and click on Create role.
 
 Role is created.
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/6.avif" width="1000" height="400">
+
 Now Attach this role to Ec2 instance that we created earlier, so we can provision cluster from that instance.
 
 Go to EC2 Dashboard and select the instance.
 
 Click on Actions –> Security –> Modify IAM role.
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/6.avif" width="1000" height="400">
 
 Select the Role that created earlier and click on Update IAM role.
 
