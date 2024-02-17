@@ -80,15 +80,15 @@ Click on Actions –> Security –> Modify IAM role.
 
 Select the Role that created earlier and click on Update IAM role.
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/8.avif" width="1000" height="400">    
+
 Connect the instance to Mobaxtreme or Putty
 
 # STEP 3: Cluster provision
 
 Now clone this Repo.
 
-    git clone https://github.com/tohidhanfi20/k8s-mario
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/8.avif" width="1000" height="400">    
+    git clone https://github.com/tohidhanfi20/k8s-mario  
 
 change directory
 
