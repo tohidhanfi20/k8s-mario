@@ -138,15 +138,15 @@ Now Run terraform apply to provision cluster.
 
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/14.avif" width="1000" height="400">
 
-Completed in 10mins
+Completed in 10 mins
+
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/15.avif" width="1000" height="1000">    
 
 Update the Kubernetes configuration
 
 Make sure change your desired region
 
     aws eks update-kubeconfig --name EKS_CLOUD --region ap-south-1
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/15.avif" width="1000" height="1000">    
 
 Now change directory back to k8s-mario
 
