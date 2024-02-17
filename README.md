@@ -90,6 +90,8 @@ Now clone this Repo.
 
     git clone https://github.com/tohidhanfi20/k8s-mario  
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/9.avif" width="1000" height="400">    
+
 change directory
 
     cd k8s-mario
@@ -98,8 +100,6 @@ Provide the executable permission to script.sh file, and run it.
 
     sudo chmod +x script.sh
     ./script.sh
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/9.avif" width="1000" height="400">
 
 This script will install Terraform, AWS cli, Kubectl, Docker.
 
