@@ -64,9 +64,9 @@ For permission policy select Administrator Access (Just for learning purpose), c
 
 Provide a Name for Role and click on Create role.
 
-Role is created.
-
 <img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/5.avif" width="1000" height="400">
+
+Role is created.
 
 Now Attach this role to Ec2 instance that we created earlier, so we can provision cluster from that instance.
 
