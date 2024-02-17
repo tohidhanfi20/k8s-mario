@@ -112,6 +112,8 @@ Check versions
     kubectl version --client
     terraform --version
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/11.avif" width="1000" height="400">
+
 Now change directory into the EKS-TF
 
 Run Terraform init
@@ -120,8 +122,6 @@ NOTE: Don’t forgot to change the s3 bucket name in the backend.tf file
 
     cd EKS-TF
     terraform init
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/11.avif" width="1000" height="400">
 
 Now run terraform validate and terraform plan
 
