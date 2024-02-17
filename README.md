@@ -185,11 +185,13 @@ Paste the ingress link in a browser and you will see the Mario game.
 
 Let’s Go back to 1985 and play the game like children.
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/20.avif" width="1000" height="400">
+
 This is official image by MR CLOUD BOOK
 
 You can check in Docker-hub as well sevenajay/mario:latest
 
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/20.avif" width="1000" height="400">
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/21.avif" width="1000" height="400">
 
 # STEP 6: Destruction 
 
@@ -201,9 +203,7 @@ Let’s remove the service and deployment first
 
 Let’s Destroy the cluster
 
-    terraform destroy --auto-approve
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/21.avif" width="1000" height="400">    
+    terraform destroy --auto-approve  
 
 After 10mins Resources that are provisioned will be removed.
 
