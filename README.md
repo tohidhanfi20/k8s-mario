@@ -123,12 +123,12 @@ NOTE: Don’t forgot to change the s3 bucket name in the backend.tf file
     cd EKS-TF
     terraform init
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/12.avif" width="1000" height="800">    
+
 Now run terraform validate and terraform plan
 
     terraform validate
     terraform plan
-    
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/12.avif" width="1000" height="800">
 
 Now Run terraform apply to provision cluster.
 
