@@ -101,6 +101,8 @@ Provide the executable permission to script.sh file, and run it.
     sudo chmod +x script.sh
     ./script.sh
 
+<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/10.avif" width="1000" height="400">
+
 This script will install Terraform, AWS cli, Kubectl, Docker.
 
 Check versions
@@ -109,8 +111,6 @@ Check versions
     aws --version
     kubectl version --client
     terraform --version
-
-<img src="https://github.com/tohidhanfi20/k8s-mario/blob/main/Screenshots/10.avif" width="1000" height="400">
 
 Now change directory into the EKS-TF
 
